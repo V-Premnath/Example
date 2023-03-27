@@ -2,7 +2,8 @@
 #include <stdlib.h>
 typedef struct node{
 	int data;
-	struct node *link;//thois is a comment
+	struct node *link;//thois is a comment 
+	//fsdffsdf
 }node;
 
 void display(node *tem);
