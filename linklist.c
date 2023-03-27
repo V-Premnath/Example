@@ -2,7 +2,7 @@
 #include <stdlib.h>
 typedef struct node{
 	int data;
-	struct node *link;
+	struct node *link;//thois is a comment
 }node;
 
 void display(node *tem);
